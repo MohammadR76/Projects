@@ -3,8 +3,8 @@
 
 ## 1. Statistics
 ### 1.1. Inferential Statistics
-Folder ([Statistics/Inferential Statistics](https://github.com/MohammadR76/Projects/tree/main/Statistics/Inferential%20Statistics)) Statistics is dedicated to inferential statistics and includes the following:
-- Implementation of statistical tests including Z, T, U mann whitney, ANOVA, Chi-square, and A/B testing
+Folder ([Statistics/Inferential Statistics](https://github.com/MohammadR76/Projects/tree/main/Statistics/Inferential%20Statistics)) is dedicated to inferential statistics and includes the following:
+- Statistical tests: z-test, t-test, Mann–Whitney U, ANOVA, Chi-square, and A/B testing
 - Assessment of data distribution normality versus non-normality
 - Analysis and evaluation of relationships between features
 - Determination of statistical significance and distinction between random events and meaningful analytical patterns
@@ -23,6 +23,6 @@ Folder ([Preprocessing](https://github.com/MohammadR76/Projects/tree/main/Prepro
 - Removal or imputation of missing values using mean, median, mode, as well as methods such as SimpleImputer and KNN Imputer
 - Encoding of non-numeric features using Label Encoding and One-Hot Encoding
 - Identification of missing or zero values using histograms
-- Normalization of data distributions with consideration of dimensionality increase
+- Normalizing data distributions using feature expansion
 - Detection and removal of outliers
 - Data scaling using various methods, including Standard Scaling and Min–Max Scaling
